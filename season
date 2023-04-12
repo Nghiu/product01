@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Mùa Xuân",
+    "image": "mua_xuan.png"
+  },
+  {
+    "id": 2,
+    "name": "Mùa Hè",
+    "image": "mua_he.png"
+  },
+  {
+    "id": 3,
+    "name": "Mùa Thu",
+    "image": "mua_thu.png"
+  },
+  {
+    "id": 4,
+    "name": "Mùa Đông",
+    "image": "mua_dong.png"
+  }
+]
